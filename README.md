@@ -30,7 +30,7 @@ A professional, multi-page Power BI dashboard that simulates ride-hailing operat
 ## 🎯 Live Preview (Screenshots)
 
 <p align="center">
-  <img src="images/overview.png" width="48%" alt="Overview Page" />
+  <img src="images/overview.png" width="45%" alt="Overview Page" />
   <img src="images/revenue.png" width="48%" alt="Revenue Page" />
 </p>
 
