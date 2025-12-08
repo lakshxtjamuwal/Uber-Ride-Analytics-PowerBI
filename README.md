@@ -52,6 +52,7 @@ A professional, multi-page Power BI dashboard that simulates ride-hailing operat
 ---
 
 ## 🧾 Repository Structure
+```
 Ride-Analytics-PowerBI/
 ├─ Ride_Analytics_Dashboard.pbix
 ├─ Styled_Ride_Analytics_Project_Report.pdf
@@ -64,7 +65,7 @@ Ride-Analytics-PowerBI/
 │ ├─ cancellations.png
 │ └─ geo_map.png
 └─ README.md
-
+```
 
 ---
 
@@ -100,6 +101,8 @@ Ride-Analytics-PowerBI/
 🙋 Contact & Connect
 
 Lakshit Jamuwal
+```
 🔗 LinkedIn: https://www.linkedin.com/in/lakshit-jamuwal/
 ✉️ Email: lakshitjamuwal@gmail.com
+```
 
