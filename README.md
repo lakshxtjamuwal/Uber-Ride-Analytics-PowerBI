@@ -37,7 +37,7 @@ A professional, multi-page Power BI dashboard that simulates ride-hailing operat
 <p align="center">
   <img src="images/ride_performance.png" width="32%" alt="Ride Performance" />
   <img src="images/cancellations.png" width="32%" alt="Cancellations" />
-  <img src="images/geo_map.png" width="32%" alt="Geo Hotspots" />
+  <img src="images/geomap.png" width="32%" alt="Geo Hotspots" />
 </p>
 
 ---
