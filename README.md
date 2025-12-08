@@ -101,6 +101,7 @@ Ride-Analytics-PowerBI/
 ## 🙋 Contact & Connect
 
 Lakshit Jamuwal
+<br>
 🔗 LinkedIn: https://www.linkedin.com/in/lakshit-jamuwal/
 <br>
 ✉️ Email: lakshitjamuwal@gmail.com
