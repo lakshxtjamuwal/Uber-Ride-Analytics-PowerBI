@@ -5,11 +5,11 @@ Ride Analytics &amp; Operations Dashboard | Power BI | Delhi NCR | 100K Dataset 
 <h3 align="center">Power BI • DAX • ArcGIS / Maps • Data Modeling • Delhi NCR (100K records)</h3>
 
 <p align="center">
-  <a href="https://github.com/lakshxtjamuwal/Uber-Ride-Analytics-PowerBI/blob/main/Styled_Ride_Analytics_Project_Report.pdf">
+  <a href="https://github.com/lakshxtjamuwal/Uber-Ride-Analytics-PowerBI/blob/main/Uber_Ride_Analytics_Report.pdf">
     <img src="https://img.shields.io/badge/Download-Project%20Report-blue?style=for-the-badge" alt="Download Report">
   </a>
   &nbsp;
-  <a href="https://github.com/lakshxtjamuwal/Uber-Ride-Analytics-PowerBI/blob/main/Ride_Analytics_Dashboard.pbix">
+  <a href="https://github.com/lakshxtjamuwal/Uber-Ride-Analytics-PowerBI/blob/main/Uber Dashboard.pbix">
     <img src="https://img.shields.io/badge/Download-PBIX-orange?style=for-the-badge" alt="Download PBIX">
   </a>
   &nbsp;
