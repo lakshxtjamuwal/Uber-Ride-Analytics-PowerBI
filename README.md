@@ -69,7 +69,7 @@ Ride-Analytics-PowerBI/
 
 ---
 
-## 📊 Dashboard Pages (Short)
+## 📊 Dashboard Pages
 - **Overview:** Executive KPIs, dynamic revenue, booking status, timeline.  
 - **Ride Performance:** Hourly trends, vehicle mix, average distance.  
 - **Revenue & Pricing:** Revenue trends, revenue per km, payment split.  
@@ -80,7 +80,7 @@ Ride-Analytics-PowerBI/
 
 ---
 
-## 💡 Key Insights (examples to mention in interviews)
+## 💡 Key Insights
 - Peak demand windows: **08:00–10:00** & **17:00–21:00**  
 - **Prime vehicles** give higher revenue-per-ride compared to high-volume low-fare categories  
 - Cancellation hotspots and reasons highlight improvement areas for driver allocation  
@@ -91,9 +91,9 @@ Ride-Analytics-PowerBI/
 
 ## 🔧 How to use
 1. Clone or download the repo.  
-2. Open `Ride_Analytics_Dashboard.pbix` in **Power BI Desktop**.  
+2. Open `Uber Dashboard.pbix` in **Power BI Desktop**.  
 3. If using map visuals, ensure ArcGIS / Bing Maps are enabled in Power BI tenant (Admin).  
-4. Load `dataset/Delhi_Gurugram_Bookings_Nov2025.xlsx` if prompted.  
+4. Load `dataset/Uber-Data-Nov2025-Cleaned.xlsx` if prompted.  
 5. Explore pages, slicers and bookmarks.
 
 ---
