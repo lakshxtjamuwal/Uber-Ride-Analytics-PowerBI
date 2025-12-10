@@ -54,10 +54,10 @@ A professional, multi-page Power BI dashboard that simulates ride-hailing operat
 ## 🧾 Repository Structure
 ```
 Ride-Analytics-PowerBI/
-├─ Ride_Analytics_Dashboard.pbix
-├─ Styled_Ride_Analytics_Project_Report.pdf
+├─ Uber Dashboard.pbix
+├─ Uber_Ride_Analytics_Report.pdf
 ├─ dataset/
-│ └─ Delhi_Gurugram_Bookings_Nov2025.xlsx
+│ └─ Uber-Data-Nov2025-Cleaned.xlsx
 ├─ images/
 │ ├─ overview.png
 │ ├─ revenue.png
